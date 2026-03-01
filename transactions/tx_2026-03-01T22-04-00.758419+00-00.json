@@ -1,0 +1,10 @@
+{
+  "agent": "fino31415",
+  "timestamp": "2026-03-01T22:04:00.758419+00:00",
+  "type": "USDC_TRANSFER",
+  "from": "G5dzkM8r3AV3UHi7bcR2b2TCUDodDnpKtLnV9sgBTjdj",
+  "to": "3Jom4MKhZR3fmDfQUxBZckpVKT6dHHP23NxtxC1uS5AM",
+  "amount_usdc": 0.01,
+  "tx_signature": "29wtm3V7WBW1Ak4ye4rAUhrjsd5K8ML4TPE2s264P2EJcoH1GCKcLiZ9ZLn2QVQ3pf3deKMB1MdEcQgtWYYtLo4M",
+  "explorer": "https://solscan.io/tx/29wtm3V7WBW1Ak4ye4rAUhrjsd5K8ML4TPE2s264P2EJcoH1GCKcLiZ9ZLn2QVQ3pf3deKMB1MdEcQgtWYYtLo4M"
+}
